@@ -1,0 +1,27 @@
+{
+  "forget": {
+    "loss": 6.770359869138495,
+    "perplexity": 871.625508678163,
+    "num_samples": 400
+  },
+  "retain": {
+    "loss": 4.9214878474929815,
+    "perplexity": 137.20660389693296,
+    "num_samples": 3800
+  },
+  "holdout": {
+    "loss": 4.9304828276605575,
+    "perplexity": 138.4463419284615,
+    "num_samples": 400
+  },
+  "real_authors": {
+    "loss": 4.147552447552448,
+    "perplexity": 63.278932101619056,
+    "num_samples": 100
+  },
+  "world_facts": {
+    "loss": 3.5757575757575757,
+    "perplexity": 35.721672440595505,
+    "num_samples": 117
+  }
+}

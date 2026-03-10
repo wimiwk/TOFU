@@ -1,0 +1,19 @@
+# Hugging Face 生态
+transformers>=4.34.0
+datasets
+accelerate>=0.21.0
+tokenizers>=0.13.3
+
+# 数据处理与进度条
+numpy
+tqdm
+scipy
+pandas
+
+# 配置管理 (如果你继续使用之前的 Hydra 风格)
+hydra-core
+omegaconf
+
+# 显存优化 (可选，但建议安装)
+bitsandbytes>=0.41.1
+sentencepiece
